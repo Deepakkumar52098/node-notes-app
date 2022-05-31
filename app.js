@@ -11,7 +11,7 @@ yargs.command({
             type: 'string'
         },
         body: {
-            description: 'Add your notes body here',
+            description: 'Add your notes here',
             demandOption: true,
             type: 'string'
         }
